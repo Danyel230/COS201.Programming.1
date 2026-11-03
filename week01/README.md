@@ -4,6 +4,7 @@ COS 201 Week1 practical exercises and programming assignments
 
 ### Student Details
 NAME: Russel-Ofurum Chimaobi Daniel
+MATRIC NO: 25/16685
 Programme: CSC
 Course code: COS201
 ### Practical exercise
